@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 play the game 
-=======
-day is day
->>>>>>> aky
